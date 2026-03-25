@@ -76,6 +76,8 @@ conda install numpy pandas matplotlib pillow gymnasium -c conda-forge -y
 pip install torch torchvision torchaudio --index-url [https://download.pytorch.org/whl/cu124](https://download.pytorch.org/whl/cu124)
 ```
 
+<img width="3750" height="675" alt="training_final_curves" src="https://github.com/user-attachments/assets/435ff375-7e67-44c9-83f8-afedd2157871" />
+
 ![uav_flight_1](https://github.com/user-attachments/assets/bb2bda75-d184-4b93-bd6c-e093be14b60d)
 ![uav_flight_5](https://github.com/user-attachments/assets/88f669ee-f20f-4262-aa1e-ac4605d6e968)
 
